@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\auth",
+    "\\src\\pages\\dashboard"
+  ],
+  "SelectedNode": "\\src\\pages\\dashboard\\mainDashboard.js",
+  "PreviewInSolutionExplorer": false
+}
